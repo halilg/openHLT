@@ -1,1 +1,1 @@
-This directory contains files used to test openHLT.
+This directory contains files used for testing openHLT.
